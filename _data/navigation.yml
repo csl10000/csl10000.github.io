@@ -1,13 +1,13 @@
 main:
 
-  - title: "Education"
-    url: /cv/
+  #- title: "Education"
+  #  url: /cv/
     
-  - title: "Research"
-    url: /research/
+  #- title: "Research"
+  #  url: /research/
     
-  - title: "Publications"
-    url: /publication/
+  #- title: "Publications"
+  #  url: /publication/
 
   #- title: "Talks"
   #  url: /talks/    
