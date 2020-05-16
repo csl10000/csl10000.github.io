@@ -9,11 +9,11 @@
 locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
-name                     : &name "Pu Wang"
+name                     : &name "Songlin Chen"
 description              : &description "Ph.D Candidate"
-url                      : "https://wangpu03.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://songlinchen.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "wangpu03/wangpu03.github.io"
+repository               : "csl10000/songlinchen.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Pu Wang"
+  name             : "Songlin Chen"
   avatar           : "profile.png"
-  bio              : "Ph.D Candidate in Cyberspace Security in Xidian University"
-  location         : "Xi'an, China"
+  bio              : "Ph.D Candidate in communication and information system in UESTC"
+  location         : "Cheng'du, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=jmoK1GsAAAAJ&hl=en"
-  email            : "wangpu03@gmail.com"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=FWxCJ9UAAAAJ&view_op=list_works&gmla=AJsN-F7tNQWp7qMFh3sKitlbnp64ClLDi2TXaLU4Vzc204ugQSzCl1n6pthRSXKsKPHyh8Qi_pzP-k7U-MGcyr-Wcflr15xdD0kPS5gI1_zr-s2OuL4E_Ew"
+  email            : "songlinchen@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "wangpu03"
+  github           : "csl10000"
   google_plus      :
   keybase          :
   instagram        :
