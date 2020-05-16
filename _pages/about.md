@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-My name is Pu Wang (in Chinese: 王普), currently a Ph.D candidate in School of Cyber Engineering at Xidian University in China, advised by Prof. Yan. 
+My name is Songlin Chen (in Chinese: 陈松林), currently a Ph.D candidate in School of Information and Communication Engineering at University of Electronic Science and Technology of China. 
 
 I am now a visting Ph.D. student in Wireless Innovation and Cybersecurity Lab (WICL) in George Mason University, advised by Prof. Zeng. 
 
-My research interest mainly focuses on physilay layer security in backscatter communication and wireless information and power transfer, 5G wireless security and network security.
+My research interest mainly focuses on physilay layer security, machine learning, and edge computing.
 
 >**Hello, World!!!**
  
